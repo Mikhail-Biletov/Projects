@@ -55,4 +55,4 @@
 
 
 ## Используемые библиотеки
-*pandas*, *matplotlib*, *NumPy*, SciPy*,*.
+*pandas*, *matplotlib*, *NumPy*, SciPy*.
